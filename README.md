@@ -15,3 +15,7 @@ To run the code, simply open the codebook and execute everything. Please note th
 No problem, the PDF is here for you. It is basically an export of the codebook after every cells were executed.
  
 ## Our video!
+
+## Contact
+
+loufrn-2@student.ltu.se
