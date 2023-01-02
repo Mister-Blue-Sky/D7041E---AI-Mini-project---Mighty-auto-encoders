@@ -16,6 +16,8 @@ No problem, the PDF is here for you. It is basically an export of the codebook a
  
 ## Our video!
 
+https://youtu.be/1sDySUgtmc4
+
 ## Contact
 
 loufrn-2@student.ltu.se
