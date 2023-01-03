@@ -16,6 +16,8 @@ No problem, the PDF is here for you. It is basically an export of the codebook a
  
 ## Our video!
 
+We do not dive into the details of the implementation during the video so as to not spend 5 hours in it. Feel free to ask all of your question. We will be happy to answer them ;-)
+
 https://youtu.be/1sDySUgtmc4
 
 ## Contact
